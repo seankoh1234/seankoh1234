@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sean! Welcome to my page.
-- 👀 I’m interested in machine learning algorithms and data analysis! See below for some Jupyter notebooks I produced.
+- 👀 I’m interested in machine learning algorithms and data analysis.
 - 🌱 See my Tableau Public https://public.tableau.com/app/profile/sean6667 for a recent viz I did.  
 
 <!---
